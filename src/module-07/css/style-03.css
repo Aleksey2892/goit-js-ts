@@ -1,0 +1,16 @@
+#gallery {
+  margin: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.js-gallery-list {
+  list-style-type: none;
+  padding: 10px;
+}
+
+.js-gallery-img {
+  display: block;
+  box-sizing: border-box;
+}

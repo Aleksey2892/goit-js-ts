@@ -1,0 +1,54 @@
+.task {
+  margin-bottom: 30px;
+  text-align: center;
+  opacity: 0.3;
+  text-transform: uppercase;
+}
+
+hr {
+  margin-top: 50px;
+}
+
+#counter {
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+#value {
+  margin: 0 10px;
+}
+
+#name-input {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+#name-input + h1 {
+  text-align: center;
+}
+
+#validation-input {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+#font-size-control {
+  margin: 0 auto;
+  display: block;
+}
+
+#text {
+  display: block;
+  text-align: center;
+}
+
+#controls {
+  text-align: center;
+}
+
+#boxes {
+  margin-bottom: 30px;
+}
